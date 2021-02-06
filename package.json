@@ -1,6 +1,6 @@
 {
   "name": "@iksena/graphql-constraint-directive",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "Validate GraphQL fields",
   "main": "index.js",
   "scripts": {
